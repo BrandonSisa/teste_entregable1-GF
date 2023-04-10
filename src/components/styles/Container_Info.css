@@ -1,0 +1,52 @@
+.container__title {
+    color: white;
+    /* text-align: center; */
+    font-weight: bold;
+    font-size: 33px;
+    text-shadow: 5px 3px 1px var(--purple) ;
+    text-transform: uppercase;
+    margin-bottom: 200px;
+    margin-left: 190px;
+    margin-right:200px;
+    /* position: center; */
+    /* top: 100px; 
+    left: 300px;  */
+    /* transform: translate(-50px); */
+
+}
+
+.containerInfo__phrase {
+    color: purple;
+    text-shadow: 1px 2px 2px blue;
+    width: 100%;
+    background-image: url("/espacio/rectangle.png.webp");
+    padding-right: 110px;
+    padding-left: 25px;
+    margin-top: 10px;
+  
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    aspect-ratio: 5;
+    background-position:center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.containerInfo__author {
+    background-color: rgb(255, 255, 255, 0.618);
+    color: gray;
+    font-weight: lighter;
+    text-align: center;
+    padding: 10px 20px;
+    max-width: max-content;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 10px;
+    left: 50px;
+    transform: translate(-50px);
+
+}
+

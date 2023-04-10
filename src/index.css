@@ -1,0 +1,23 @@
+  @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600&display=swap');
+  
+
+  :root {
+  --purple: #6023c2;
+  --brown: #893446;
+}
+
+body {
+  margin: 0;
+}
+html {
+  box-sizing: border-box;
+  font-family: 'Fredoka', sans-serif;
+
+}
+*, *::after, *::before {
+  box-sizing: inherit;
+}
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  font-weight: lighter;
+}
